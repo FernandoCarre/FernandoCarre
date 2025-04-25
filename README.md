@@ -56,11 +56,4 @@ Comecei a estudar programação na Alura por causa da Imersão Dev de 2025 quand
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=fernandocarre&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-<img 
-    align="top" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandocarre&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 </p>
