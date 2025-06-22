@@ -4,16 +4,6 @@
 
 Comecei a estudar programação na Alura por causa da Imersão Dev de 2025 quando vi o ótimo direcionamento que a escola proporciona para seus estudantes, assim como a objetividade e clareza de conteúdo.
 
-<p>
-    <a href="https://github.com/FernandoCarre?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/fernandocarre?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
