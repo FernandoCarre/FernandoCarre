@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Iniciante em Front-End`**
 
-Comecei a estudar programação na Alura por causa da Imersão Dev de 2025 quando vi o ótimo direcionamento que a escola proporciona para seus estudantes, assim como a objetividade e clareza de conteúdo.
+Comecei a estudar programação na Alura por causa da Imersão Dev de 2025 depois que me interessei pelo direcionamento que a escola proporciona aos seus estudantes, assim como pela objetividade e clareza de conteúdo.
 
 ---
 
